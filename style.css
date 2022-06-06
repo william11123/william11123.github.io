@@ -1,0 +1,29 @@
+p{
+    width:30%;
+    background-color: aqua;
+    color:black
+}
+
+#id2{
+    background-color: rgb(236, 13, 225);
+    color:rgb(34, 23, 180)
+}
+
+#id3{
+    background-color: rgb(13, 236, 69);
+    color:rgb(124, 103, 62)
+}
+
+hr{
+    width:30%;
+    background-color:#991f33;
+    color:#991f33;
+}
+br{
+    width:30%;
+    background-color:#142094;
+    color:#1f2fc0;
+}
+
+
+
